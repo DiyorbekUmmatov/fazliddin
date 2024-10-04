@@ -1,0 +1,236 @@
+Uri: https://elora.asdesignsgalaxy.com/
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\index.htm
+Content Type: text/html
+
+Uri: https://elora.asdesignsgalaxy.com/assets/css/main.css
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://elora.asdesignsgalaxy.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/About/About-Image.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\About\About-Image.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Blogs/blog-1.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Blogs\blog-1.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Blogs/blog-2.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Blogs\blog-2.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Blogs/blog-3.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Blogs\blog-3.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Blogs/blog-4.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Blogs\blog-4.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Blogs/blog-5.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Blogs\blog-5.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Home/Home-Image.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Home\Home-Image.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-1.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-1.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-2.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-2.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-3.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-3.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-4.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-4.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-5.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-5.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Portfolio/portfolio-6.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Portfolio\portfolio-6.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Testimonials/pic-1.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Testimonials\pic-1.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Testimonials/pic-2.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Testimonials\pic-2.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Testimonials/pic-3.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Testimonials\pic-3.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Testimonials/pic-4.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Testimonials\pic-4.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/images/Testimonials/pic-5.png
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\images\Testimonials\pic-5.png
+Content Type: image/png
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/blog-slider.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\blog-slider.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/counter-up.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\counter-up.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/portfolio.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\portfolio.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/script.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/scroll-spy.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\scroll-spy.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/js/testi-slider.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\js\testi-slider.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/jquery/jquery-3.6.0.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\jquery\jquery-3.6.0.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/magnific-popup/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\magnific-popup\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/magnific-popup/magnific-popup.css
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/swiper/swiper.css
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\swiper\swiper.css
+Content Type: text/css
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/swiper/swiper.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\swiper\swiper.js
+Content Type: application/javascript
+
+Uri: https://elora.asdesignsgalaxy.com/assets/vendors/typed/typed.js
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\assets\vendors\typed\typed.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\elora.asdesignsgalaxy.com\s\roboto\v32\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
